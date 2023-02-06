@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bullet UI HUD
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 719ae18118a016f43aad5aee2965ae37, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9719af00925c7d340bc240e93d9af88d, type: 3}
+  - {fileID: 21300000, guid: 9fa2a5e0fa7817343b314983d7fb5a5f, type: 3}
+  - {fileID: 21300000, guid: b2168381e72db8e41a0297ba62e45ffa, type: 3}
+  - {fileID: 21300000, guid: c6708022de7a1a64181fec37f601a1eb, type: 3}
+  - {fileID: 21300000, guid: efa62243f494126418a77613213536c1, type: 3}
+  - {fileID: 21300000, guid: 2a128483c7420a34fbbf818a66547bd2, type: 3}
+  - {fileID: 21300000, guid: 9c0bb604168e5384ea618ab8b656439f, type: 3}
+  - {fileID: 21300000, guid: 851acf644433548448ffce5a523eb2ae, type: 3}
+  - {fileID: 21300000, guid: 312b996509e9ed34c8ecaffe3bd559b2, type: 3}
+  - {fileID: 21300000, guid: 2bf45c062a44cab42937a2e9ab1256ea, type: 3}
+  - {fileID: 21300000, guid: c71ca326141eb984aa16a319eec84489, type: 3}
+  - {fileID: 21300000, guid: 36bedb66571631d47990ef05ffd83583, type: 3}
+  - {fileID: 21300000, guid: e440ca86a868f1544afe3f3f98160641, type: 3}
+  - {fileID: 21300000, guid: ad9d38965a30b0040bb3f1cee03a6c8b, type: 3}
+  - {fileID: 21300000, guid: 3e37d2d6e8b0d204ea6511e94ee98de6, type: 3}
+  - {fileID: 21300000, guid: 0ee92bd6d61b5c2488d416c40ae737b2, type: 3}
+  - {fileID: 21300000, guid: a1a17687c496fc643a65051151c2d316, type: 3}
+  - {fileID: 21300000, guid: 92f0fa188df8af94ea802cae6e03da4d, type: 3}
+  - {fileID: 21300000, guid: 90ee981aac2ea814c8a6eebfa96cfb67, type: 3}
+  - {fileID: 21300000, guid: 61cea62a13e0c64409360a5024112038, type: 3}
+  - {fileID: 21300000, guid: d93da83aca0266a4abe4ba02fee6dafd, type: 3}
+  - {fileID: 21300000, guid: c4b56a5a9bfade44eb7d0cd94ee10ed0, type: 3}
+  - {fileID: 21300000, guid: c8e63f6b236836340a8164b5d4945c4c, type: 3}
+  - {fileID: 21300000, guid: 06e2c1dbd30954246ab718b15e9ad95c, type: 3}
+  - {fileID: 21300000, guid: ded95c5d236efc4479dd2a4d9ce9dcf6, type: 3}
+  - {fileID: 21300000, guid: 1c57d1bd56c02da42a29e0ee87671748, type: 3}
+  - {fileID: 21300000, guid: 3e96deed57de6974f8afa925fdbbd575, type: 3}
+  - {fileID: 21300000, guid: 0c990ebf016a04546b7804868cc06efd, type: 3}
+  - {fileID: 21300000, guid: 824661dff221ed8409e903f2b5d578e7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HUD_WeaponsFrame_Energy_Fill
+  - HUD_Minimap_Compass_Separator_Small
+  - Crosshair_Line_Vertical
+  - HUD_Minimap_Pin_Teammate
+  - Crosshair_Circle
+  - HUD_Minimap_Pin_Enemy
+  - HUD_WeaponsFrame_FireRate_Burst
+  - HUD_WeaponsFrame_CircleGlow
+  - HUD_Minimap_Background
+  - HUD_Minimap_Compass_Separator_Large
+  - HUD_WeaponsFrame_Example_Pistol
+  - HUD_WeaponsFrame_WeaponBox_BordersActive
+  - Crosshair_Dot
+  - Crosshair_Line_Horizontal
+  - HUD_WeaponsFrame_Energy_Background
+  - HUD_GameState_Background
+  - HUD_WeaponsFrame_Background
+  - HUD_Minimap_Example
+  - HUD_GameState_VictoryIndicator_Red
+  - HUD_Minimap_Pin_Friendly
+  - Example_KillDisplay_Weapon
+  - HUD_GameState_VictoryIndicator_Green
+  - HUD_WeaponsFrame_WeaponBox_Borders
+  - HUD_WeaponsFrame_WeaponBox_Active_Pointer
+  - HUD_WeaponsFrame_Health_Fill
+  - HUD_WeaponsFrame_FireRate_Auto
+  - HUD_WeaponsFrame_Example_Granade
+  - HUD_WeaponsFrame_FireRate_Single
+  - HUD_Minimap_Pin_Player
+  m_RenderDataMap: {}
+  m_Tag: Bullet UI HUD
+  m_IsVariant: 0
